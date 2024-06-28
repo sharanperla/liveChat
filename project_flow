@@ -1,0 +1,13 @@
+create api folder
+npm init -y 
+(install dependencies)
+ npm i dotenv bcrypt express stream-chat
+ create .env file and
+
+ create nodemon js
+ update scripts section in package json
+ create tsconfig file
+
+ install npm i -D @types/express @types/node ts-node nodemon rimraf @types/bcrypt
+
+ 
